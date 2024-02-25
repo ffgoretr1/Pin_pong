@@ -88,7 +88,5 @@ while game:
             finish = True
             window.blit(lose2, (200, 200))
 
-
-
     display.update()
     clock.tick(FPS)
